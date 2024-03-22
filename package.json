@@ -1,0 +1,17 @@
+{
+  "name": "audiohero-bulk-downloads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/lodash": "^4.17.0",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
